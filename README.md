@@ -6,7 +6,7 @@ The talk is based on interviews conducted with members of the Freifunk community
 The interviews were conducted in German, so all translations to English are mine.
 I apologise for any inaccuracies.
 
-ff_umfrage is a file containing the raw interview answers (in German).
+`ff_umfrage` is a file containing the raw interview answers (in German).
 
 
 ## paper

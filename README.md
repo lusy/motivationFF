@@ -1,4 +1,4 @@
-# motivationFf
+# motivationFF
 
 This repository contains a talk and discussion guidelines on the motivation in the [Freifunk](https://freifunk.net/) community (a community network project in Germany) given at the
 [BattleMeshV9](http://battlemesh.org/BattleMeshV9) in May 2016.

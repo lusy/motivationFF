@@ -1,0 +1,1044 @@
+Fragen
+------
+
+* Warum machst du Freifunk? --> übergeordnete Frage
+1.1 Warum/Wie bist du ins Projekt eingestiegen?
+1.2 Wie lange machst du das schon?
+1.3 Was genau machst du da/hast du bis jetzt gemacht?
+1.4 Wie aktiv nimmst du an Orga teil?
+1.5 Was findest du an dem Projekt cool? Was findest du weniger cool?
+1.6 hintergrund?
+
+Konkreter
+---------
+Spielen folgende Punkte ne Rolle für deine Motivation:
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+2.6 Mir ist Netzneutralität wichtig
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+
+===========================================================
+
+17)
+
+* Warum machst du Freifunk? --> übergeordnete Frage
+1.1 Warum/Wie bist du ins Projekt eingestiegen?
+habs gegründet^^
+Friedrichshein hatte 2003 kein (brauchbares) Internet
+* eine isdn leitung für 35 menschen --> 1. schritt schnelleres internet fürs haus finden/bauen
+sich deshalb erstmal mit der Technik beschäftigt
+* die zeit, wo wlan technologie ihren einzug gefunden hat
+* änderung der regulatorischen änderungen: wlan lizenzen konnten auf einmal frei betrieben werden
+* BerLon Konferenz im bootlab
+ ** durch den Austausch da, bewusster wurde dass es ein Politikum ist
+ ** wurde bewusster, dass auch Mneschen in der Nachbarschaft keinen zugang zum schnellen internet haben
+ ** und auf der welt zu (schnellem) internet
+
+
+1.2 Wie lange machst du das schon?
+~13 Jahre
+
+1.3 Was genau machst du da/hast du bis jetzt gemacht?
+* Knoten installiert
+* regelmäßige Treffen in der cbase veranstaltet
+* auch viele internationale Treffen initiiert/organisiert
+* Lobiismus für freifunk
+* "freifunk" als community mitgegründet
+* viel administration vom förderverein/ am Anfang mitgegründet
+  ** Funktion: community unterstützen, man sollte am Freifunk auch ohne im Verein aktiv zu sein, mitmachen können
+* webseite ins leben gerufen ("freifunk")
+* pico-peering-agreement mitgeschrieben
+* firmware getestet
+* it administration (nicht typisches einsatzfeld)
+
+1.4 Wie aktiv nimmst du an Orga teil?
+* immer noch: verein, veranstaltungen, interviews
+* hat aber vor bisschen zurückzuschrauben
+
+1.5 Was findest du an dem Projekt cool? Was findest du weniger cool?
+cool:
+* aus heutiger perspektive: wie groß das geworden ist :)
+* (möglichst) dezentrale Netze zu bauen und dezentrale communities zu haben
+* viele menschen haben in dem umfeld viel über it infrastruktur gelernt
+* soziale vernetzung: (internationale) kontakte geknüpft
+* theorie: menschen können ihre eigene Infrastruktur bauen
+* menschen aus der ganzen welt kennengelernt zu haben, die sich mit dem thema auseinander setzen, die man auch immer mal wieder besucht :)
+
+uncool:
+* idee von wissensweitergabe steht zu wenig in fokus
+* genderthemen: community besteht größtenteils aus männern, die zu öffnen/erweiter funktioniert bis jetzt nicht so gut
+* in der gesellschaft ist das thema "informeller selbstbestimmung" auf ebene der infrastruktur schwierig zu vermitteln
+ (erst mit der flüchtlingsthematik presenter/bewusster geworden)
+
+1.6 hintergrund?
+it umfeld beruflich tätig seit 1990
+hardware
+netzwerken
+sysadmin
+heterogene technologien (netze: kupfer, glasfaser, funk)
+heute: eher berater (it allgemein)
+
+Konkreter
+---------
+
+Hauptmotivation
+-----
+* damals: kein Internet im Haus
+* es gibt Recht auf freie Kommunikation und Infromation
+* heute: netzpolit. Themen
+
+Spielen folgende Punkte ne Rolle für deine Motivation:
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
+ja
+
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+Komplexität von Mesh-Netzen hat für mich bis heute bes. Faszination :)
+
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+naja, musste man zwangsläufig
+wir stoßen dran, wir müssen uns jetzt damit beschäftigen
+(bes in den letzten Jahren wars eins der dominierenden Themen; auch wegen Vereintätigkeit; war aber auch für mich wichtiges Thema)
+
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+aus vielen Gründen finde, dass es auch zivil-gesellschaftlich organisierte Infrastruktur geben sollte (nicht nur auf Ebene der Kommunikation) (der Staat/Wirtschaft haben ja ihre eigene); aber Kommunikation ist ziemlich wichtig/sensibel (sollten Alternativen haben; die von der Wirtschaft können wir uns evtl nicht leisten und die vom Staat, naja wenn er unsere Meinungen nicht mag..)
+
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+* joa (OPAL Netze, kein DSL damals)
+
+2.6 Mir ist Netzneutralität wichtig
+ja
+gleiche Packete von unterschiedlichen Absendern/Empfängern gleich behandelt!
+um Dienste zu priorisieren muss man evtl Packetinspection machen, dann ist schluss
+(theoret. gibts auch unendlich viel bandbreite, evtl investiert man in die nächste technologiestuffe und braucht den unterschied gar nicht mehr zu machen)
+
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+ne
+
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+ne
+der Bereich, wo ich meine bereits bestehende Kenntnisse einbringen konnte
+hab viel gelernt, eher über community geschichten, nicht so sehr technisch
+(wie gut/schlecht selbstorganisation funktioniert; wie viel struktur ist nützlich, um solche prozesse zu verbessern; wo ist zu viel struktur eher einschränkend; was bedeutet freiwillige arbeit; was bedeutet aus intrisischer motivation was zu machen?; manche sachen fallen unter, weil sie unbeliebt sind; manche sachen macht niemand, die vlt sinnvollerweise gemacht werden sollten; an anderen stellen aber werden die sachen viel toller gemacht, als man sich das vorgestellt hätte; völlig anderes arbeitsmodus als in hierarchischer struktur/geschlossener organisation)
+gelernt damit zu leben, keine erwartungen zu haben^^
+es gibt auch so bisschen die tendenz, sich über dinge einigen zu wollen, was gar nicht wichtig ist/relevant, dass man sich einigt
+gelernt: was bedeutet entscheiden? wer muss was entscheiden`? wer kann was entscheiden? wo gibt es überhaupt die notwendigkeit für entscheidungen?
+wichtig: möglichst wenig leute machen wichtige dinge alleine
+auch für kontinuität/nachwuchs sorgen!
+
+
+
+---------------------------------
+16)
+
+* Warum machst du Freifunk? --> übergeordnete Frage
+1.1 Warum/Wie bist du ins Projekt eingestiegen?
+die dezentrale, nicht-kommerzielle, hierarchielose Art Menschen zu verbinden/vernetzen finde ich gut
+zum Nachbarschaftsvernetzungstreffen in NK hin
+auch eine der Hauptmotivationen: der Refugeekontext: Menschen Kommunikationsunterlage zu verschaffen, die sonst keinen Zugang zu einer haben
+
+1.2 Wie lange machst du das schon?
+seit ca Sommer 2012
+grad nicht aktiv in Orga, aber immer noch bei Standorte aufbauen
+
+1.3 Was genau machst du da/hast du bis jetzt gemacht?
+* Firmware implementieren (vorbei)
+* Aufbau vom Backbone (Aufbau vorbei/aber immer noch maintainence)
+* Aufbau/Wartung von vpn Infrastruktur (immer noch)
+* Aufbau von Standorten (Schrauben und Konfiguration) (immer noch)
+* Erfahrung und Expertise weitergeben (immer noch)
+
+1.4 Wie aktiv nimmst du an Orga teil?
+grad nicht mehr
+früher relativ aktiv
+
+1.5 Was findest du an dem Projekt cool? Was findest du weniger cool?
+cool:
+* "eigene" Infrastruktur aufbauen, die nicht einem Konzern oder so gehört;
+* Möglichkeit Menschen Zugang zum Internet zu geben, die sonst keinen haben (Refugeekontext)
+
+uncool:
+* Machtgefälle (Wissenshierarchien/Menschen arbeiten ungern hierarchielos)
+* Kommunikationskultur
+* technisch skaliert die Idee leider nicht so (die ganzen polit. Ideale, die die ursprüngliche Motivation darstellten, werden grade eher nicht umgesetzt)
+
+1.6 hintergrund?
+* Informatikstudi
+* polit. interessiert^^
+
+Konkreter
+---------
+Hauptmotivation:
+die dezentrale, nicht-kommerzielle, hierarchielose Art Menschen zu verbinden/vernetzen finde ich gut
+Empowerment
+
+Spielen folgende Punkte ne Rolle für deine Motivation:
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
+spielt ne Rolle, ein Punkt von vielen;
+
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+ja
+
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+noe, musste aber
+
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+ja
+
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+noe
+
+2.6 Mir ist Netzneutralität wichtig
+joa (wobei auch selber nicht praktizieren)
+Sensibilität dafür ist in Freifunkkontext nicht unbedingt gegeben
+
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+nein
+
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+ne
+
+-----------------------------------------------------
+
+15)
+
+* Warum machst du Freifunk? --> übergeordnete Frage
+1.1 Warum/Wie bist du ins Projekt eingestiegen?
+über Freunde zu Treffen gegangen (erst in NK, dann zum Berliner Treffen in der cbase)
+aber kannte das Projekt schon (Podcasts..)
+
+1.2 Wie lange machst du das schon?
+~ Sommer 2012, mit Unterbrechungen
+
+1.3 Was genau machst du da/hast du bis jetzt gemacht?
+* Protokoll bei Treffen schreiben^^
+* bei Standorten mitaufgebaut
+* Software entwickelt (ein bisschen paar Mal)
+* "Manchmal glauben iwelche Leute, dass ich was von Netzwerken verstehe und fragen mich dann Zeug und ich versuch das zu beantworten"
+* bei Treffen versuchen dafür zu sorgen, dass neue Menschen sich angebunden fühlen, Support/Einstiegsfragen beantworten, etc.
+
+1.4 Wie aktiv nimmst du an Orga teil?
+* (Protokoll siehe oben^^)
+* eher nicht beteiligt
+
+1.5 Was findest du an dem Projekt cool? Was findest du weniger cool?
+cool
+* man kann viel rumspielen
+* das Gefühl bekommen, freie Infrastruktur zu schaffen und dass es gar nicht so schwierig ist mit der freien Infrastruktur
+* ab und zu (eher selten mittlerweile) Menschen Internet beschaffen, die sonst keins bekommen
+  ** unterm anderen auch die Anbindung von Geflüchtetenunterkünften (für die Leuten richtig cool), allerdings unsicher wie cool, weil man so den Staat aus dem Pflicht nimmt, weil das eigentl seine Aufgabe ist
+* man hast was zum anfassen :) (bisschen handfester als Softwareentwicklung), macht glücklich :)
+* man kann auf Kirchtürme hochklettern, das ist auch ziemlich cool :)
+
+uncool
+* vlt bisschen sinnfrei (auch nicht unbedingt uncool)
+
+1.6 hintergrund?
+* Informatik studiert
+* als Programmierer und Sysadmin arbeiten (eher wenig bis gar nichts mit Netzwerk zu tun)
+* Netzwerk an der Uni bei spline gemacht (mit Kabeln^^)
+
+Konkreter
+---------
+Hauptmotivation:
+Technisch ziemlich spannend, vlt früher die Vision, dass es die große lebensrettende Alternative zur letzten Meile der Telekom war; mittlerweile diese Motivation eher aufgegeben
+
+Spielen folgende Punkte ne Rolle für deine Motivation:
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
+ja
+
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+auf jeden^^
+
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+ne (auch wenn schonmal freiwillig in Rahmen von Freifunk gemacht)
+(Wifi_Standards lesen macht noch spaß^^)
+
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+ja, das will ich haben, aber glaub nicht (mehr), dass das Freifunk komplett liefern kann
+
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+ne
+
+2.6 Mir ist Netzneutralität wichtig
+joaa (findet sind unconnected Probleme)
+für mich ist Netzneutralität nicht dass voip vor bit-torrent durchdarf, sondern dass gleichartiger Traffic von verschiedenen Akteuren gleichberechtigt innerhalb vom Netz ist
+
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+ne
+
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+ne
+(aber wenn er mit Netzwerk was machen wollen würde, würde er das als Kommunikations-/Kontaktplattform sehen)
+
+
+==============================================================================================================================================
+
+14)
+
+* Warum machst du Freifunk? --> übergeordnete Frage
+1.1 Warum/Wie bist du ins Projekt eingestiegen?
+* (Mit)Gründer von FF Köln vor ca 8 Jahren
+* Doku über Netzwerke in UK (Consume Net), gestoßen auf FF, Router geflasht
+(Idee von freier Infrastruktur blabla)
+
+* am Anfang an der Uni: versucht sich in Neukölln zu treffen --> nichts daraus geworden
+* nach paar Jahren in Berlin: FF Neuköllner Stadtteilgruppe: Anfang mit einem FF-Vortrag in Ida-Nowhere; 2. Gründungsakt (Treffen initiiert)
+
+1.2 Wie lange machst du das schon?
+kennen seit 8 Jahren
+in Köln vor 8 Jahren aktiv
+jetzt seit ~3 Jahren
+
+1.3 Was genau machst du da/hast du bis jetzt gemacht?
+* Fullstack Freifunker^^
+* Firmwareentwicklung
+* Standortaufbau
+* Einkäufe koordinieren^^
+* bei Treffen regelmäßig dabei
+* Protokolle
+* Leute belabern, dass sie Freifunk machen sollen (Kirchen, Bezirk)
+* Bux fixen
+* Dokumentation geschrieben
+* Serververwaltung
+* Pressearbeit
+* Überregionale Vernetzung
+* viel Support
+
+1.4 Wie aktiv nimmst du an Orga teil?
+sehr
+
+1.5 Was findest du an dem Projekt cool? Was findest du weniger cool?
+cool:
+* Berlin hat in den letzten 2-3 Jahren ein Funknetz geschaffen, mit dem man auch wirklich arbeiten kann; nicht nur Spielwiese für Nerds, sondern wird auch von Menschen benutzt
+* Geflüchteteunterkünfte vernetzen (Menschen, die sich das nicht leisten können; wo der Staat seinen Aufgaben nicht nachkommt und Menschen ohne Kommunikationsinfrastruktur da stehen); bis jetzt ~18 Unterkünfte vernetzt
+* das eigene Netz ist stückweit unabhängig
+* Leute mit dem Internet verbinden (ist doch iwie der Kernpunkt bei der ganzen Sache)
+* man lernt interessante Leute kennen (und viele verschiedene); aus dem eigenen Dunst rauskommen;
+
+uncool
+* sehr von Einzelpersonen abhängig
+  ** das Funknetz wird nur von wenigen richtig verstanden und verwaltet ---> arbeitsintensiv für diese Menschen
+  ** gibt auch einzelne Menschen, die kritische Infrastruktur betreuen und nicht gerne das Wissen/Macht teilen, wodurch Zusammenarbeit erschwert wird
+* Arbeit im Team ist manchmal schwierig
+* viele Menschen sind autodidaktisch: sich Wissen zusammengewürfelt
+
+1.6 hintergrund?
+durchsichtig
+Informatik studieren;
+Autodidakt, Aktivist, Lebenskünstler;
+
+Konkreter
+---------
+Hauptmotivation: Sadismus; die positive Dinge von oben;
+freie dezentrale Kommunikationsinfrastruktur, die von den Menschen (mehreren) aufgebaut und verwaltet wird;
+diensen Aufbau der Infrastruktur selber machen und nicht jemandem überlassen/gegen Geld einkaufen
+gibt einem eine gewisse Souveränität
+
+Spielen folgende Punkte ne Rolle für deine Motivation:
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
+ja, man kann viel lernen
+
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+zwangsläufig klar, dass man das macht, um die Idee von oben umzusetzen
+
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+nein; macht das stückweit, nicht Kern der Arbeit/Interessen;
+gibt welche, die das ganze Projekt gefährden/komplizierter machen;
+
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+ja
+
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+ne
+
+2.6 Mir ist Netzneutralität wichtig
+joa; sieht aber FF nicht als Kampf für Netzneutralität
+hält die Idee für sinnvoll;
+Netzneutralität: Datenverkehr nicht priorisieren; freie Datenweiterleitung; wenn man das zugespitzt betreibt: Netzneutralität --> Zensur
+
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+das kann man so sagen^^
+steck ziemlich viel Zeit darein
+hat auch schonmal in Kontext von Freifunk etwa Geld für seine Arbeit bekommen
+
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+passiert sicher
+aber keine Motivation sich damit zu beschäftigen
+
+----------------------------------
+
+13)
+
+* Warum machst du Freifunk? --> übergeordnete Frage
+1.1 Warum/Wie bist du ins Projekt eingestiegen?
+in Erlangen, die FF Gruppe wiederbelebt
+mit OpenWrt losgelegt (und linksys), privat aus Spaß, dabei auf FF Beiträge im Netz gestoßen
+
+1.2 Wie lange machst du das schon? ~ seit 2007-2008
+
+1.3 Was genau machst du da/hast du bis jetzt gemacht?
+* *nicht* gemacht!: Antennen basteln!
+* Firmware für Franken gebaut
+* Router aufgesetzt
+* Standorte aufgebaut
+* Über Aushang im Treppenhaus 2 Nachbarn aufgegabelt, die immer noch mitmachen
+* and der Firmware gebastelt (pberg, kathleen)
+* OpenWifi Map
+* Freedom Fighter Boxen (geschenkte Router vorkonfiguriert und weiter verschenkt: als Protestaktion gegen Störerhaftung und so, hat auch in den Medien die Runde gemacht)
+* Publicity Arbeit, Presseanfragen beantworten, ...
+
+1.4 Wie aktiv nimmst du an Orga teil?
+* schwankt
+* für länger sehr aktiv (bis 2014 Sommer), dann aus Zeitmangel zurückgestellt
+* grad eher wenig
+
+1.5 Was findest du an dem Projekt cool? Was findest du weniger cool?
+cool:
+* Leute
+* die Technik
+* den sozialen Aspekt (Infrastruktur, die alle Menschen benutzen können, die niemandem konkreten gehört, die Commonidee)
+
+uncool: (eher kleinere Sachen)
+* wenn Leute meinen, den richtigen Weg gefunden zu haben und den anderen aufzuzwingen und alles an sich reißen
+* wenn sich Menschen richtig bekämpfen, hat das das Potenzial auch das Gesamtprojekt richtig runter zu ziehen
+
+1.6 hintergrund?
+* mathe/informatik studium
+* viel zu lange an der uni gewesen
+* seit nem jahr gründer
+* Wissenschaftler/Unternehmer/Entwickler
+
+Konkreter
+---------
+Hauptmotivation: (siehe coole Sachen)
+vor allem der soz Aspekt (Commons, bla)/ polit. Idee, die dahinter steckt
+
+Spielen folgende Punkte ne Rolle für deine Motivation
+
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
+ja
+
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+ja
+
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+muss man ja, geht nicht anders
+mit min Aufwand möglichst was reißen :)
+
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+JA
+
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+ne
+
+2.6 Mir ist Netzneutralität wichtig
+ja
+
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+ne;
+
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+Netzwerktechnikskills helfen beruflich schon iwie weiter
+aber wollte jetzt erstmal beruflich sich nicht weiter in die Richtung entwickeln
+
+--------------------------------------------------------
+
+12)
+
+* Warum machst du Freifunk? --> übergeordnete Frage
+1.1 Warum/Wie bist du ins Projekt eingestiegen?
+hat Standorte übergeben bekommen: technisch interessant --> Schnittstelle zwischen Community und Technik
+
+sich breitband Internet zu verschaffen ( und anderen )
+
+1.2 Wie lange machst du das schon?
+
+so iwie seit dem Anfang ungefähr
+~ 2004 (wollte auch beruflich was machen)
+aber mittlerweile auch semiaktiv
+
+fast nur geblieben als Interesse an dem Projekt
+Verantwortung/Wissensübergabe in Communities: wie schaffts man, dass das Ding nicht einschläft
+Wie vertelt man die Arbeit
+
+1.3 Was genau machst du da/hast du bis jetzt gemacht?
+* aufm Dach gewesen/Standortorga
+* IPv6 Einführung angeguckt
+* Echte IPs bekommen angeschlossen
+* DNS Verwaltung
+* Mailingliste Verwaltung
+
+1.4 Wie aktiv nimmst du an Orga teil?
+früher mehr, jetzt eher nicht so
+
+1.5 Was findest du an dem Projekt cool? Was findest du weniger cool?
+cool:
+* Community
+* Orga: Miteinander was machen, Technologie machen
+* Man macht alles mögliche damit: Auch Studis waren mal involviert über Fraunhofer was implementieren
+
+uncool:
+* ZUsammenarbeit mit Menschen, die soziale Interkation nervig gestalten
+* Menschen mit Halbwissen und voll Ideologien durch die Gegend laufen und versuchen was aufzubauen
+
+1.6 hintergrund?
+* Ausbildung: Netzwerk(administration)
+* Systemadministratorin
+
+Konkreter
+---------
+
+Spielen folgende Punkte ne Rolle für deine Motivation:
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
+ja (unklar ob Primärmotivation)
+
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+ja schon
+
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+* kommt man nicht drum herum, jetzt nicht primärfokus, aber kommt dazu
+(Netzwerkarchitektur ist schlussendlich auch dran angelehnt)
+
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+ja
+
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+nicht für sie persönlich relevant
+
+2.6 Mir ist Netzneutralität wichtig
+ja
+
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+nicht mehr so richtig
+manchmal WLAN an sich (das mit wlan an sich verstnaden zu haben ist gut)
+
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+jetzt nicht jobtechnisch Motivation,
+aber die Fähigkeiten sich aneignen war Motivation!
+
+
+--------------------------------------------------
+11)
+
+* Warum machst du Freifunk? --> übergeordnete Frage
+1.1 Warum/Wie bist du ins Projekt eingestiegen?
+Friedrichsein, Gebiet ohne DSL, Glaskabel, über die in dem Moment kein Netz gemacht wurde
+Drang nach Schnellem Internet
+
+1.2 Wie lange machst du das schon?
+später drüber nachdenken ~4 Jahre
+~ 2004 -- 2008 -- WiFi mäßig Pionierzeit
+(technische Probleme waren viel größer, viele Menschen mit enormem Sachverständnis; Binary analysiert, reverse engeneered und gepatched)
+
+1.3 Was genau machst du da/hast du bis jetzt gemacht?
+* Anfang Router auf das eigene Dach + Nachbardach installiert, damit man sicch mit dem nächsten Knoten verbinden kann
+* Firmware : unexistierende Features
+* IP Vergabe gemanaged (Seite, die automatisch vergibt, mit DB reden)
+* Protocollentwicklung (Protokoll war auch nicht zufrieden stellend)
+* Hardware (die aktuelle Hardware wurde end-of-lifed)
+  ---> deshalb ursprünglich nach Taiwan gegangen
+  ---> Heresteller_innen überzeugen OpenWRT zu benutzen und reflashbare Router zu haben
+  ---> TODO:war erfolgreich?
+
+1.4 Wie aktiv nimmst du an Orga teil?
+* aktiv teilgenommen
+
+1.5 Was findest du an dem Projekt cool? Was findest du weniger cool?
+cool:
+* netzwerkstruktur dezentral und händen vielen ist toll! kann man nicht an wenigen stellen abschalten/kontrollieren
+* versuch neutral zu sein dessen was im netzwerk passiert (netzneutralität)
+
+uncool:
+* dezentral ist auch Herausfoderung
+  ** Leute haben sich zerstritten und sich gegenseitig rausgekickt
+  ** funktioniert gut wenn es klein ist, sonst probleme
+     *** viele Leute, die viel runterladen...
+     *** andererseits nur wenn groß, hast du relevante Abdeckung
+     *** wenn es klein ist kann man viel experimentieren, wenn groß --> Servicemantalität der Nutzer_innen, an stabilität interessiert und nicht an Experimenten, die Entwickler_innen sind dann nicht mehr interessiert, die haben das schon ständig aufm Job; die Leute wollen sich nicht drum kümmern
+     (hat man als Lebenszyklus bereits gesehen: Peak 2007, dann implodiert das Netz; auf einmal viele Serviceleute, Entwickler springen ab, Installateure auch; bestimmt Entwickler_innen abspringen auch ab, weil es iwann nicht mehr spannend ist)
+  ** schwierig zu updaten
+* die Egos, die gestreichelt werden wollen, sind auf einem Haufen anstrengend
+
+Austieg??
+* nach Taiwan gegangen wegen Hardwaregespräche, zum ersten Job in Taiwan gekommen; sich mit Hardware das 1. Mal beschäftigt; dann halt nicht mehr vor Ort
+* mehr in die Routing-Protokoll Ecke abgedriftet, mehr Zeit in Anspruch genommen, als Freifunk als solches
+* realistisch versuchen Dinge umzusetzen
+* Interessenverschieb
+
+
+1.6 hintergrund?
+* zur Zeit kurz Student, dann Freelance Entwickler
+* Netzwerkandmin, später mehr Entwickler
+
+Warum nicht mehr
+
+Konkreter
+---------
+Spielen folgende Punkte ne Rolle für deine Motivation:
+
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
+ja; auch das Umfeld, man konnte sich austauschen
+
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+nicht mit der Absicht hingegangen, aber hat sich später ergeben
+Probleme, woran liegt das, ich wills fixen --> kam dazu
+
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+nee eher nicht
+
+
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+ja
+
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+ja, hatte damals kein schnelles internet in fhain
+
+2.6 Mir ist Netzneutralität wichtig
+ja
+
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+mit WiFi und Mesh beruflich ja (jetzt, damals nicht)
+
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+* nicht mit dem Ziel hingegangen;
+* sicherlich ein Ergebnis
+
+Primärmotivation
+* Anfang: ich will schnelles Internet und kriegs nicht auf herkömmlichen Wegen
+* Technischer Reiz/ Rumspielen, Austausch mit Fähigen Menschen
+
+
+------------------------------------------------------------------------------------------
+
+10)
+
+1.1 aufm kongress mitbekommen und interessiert verfolgt
+alt: mesh network
+neu: mit vpn ins internet
+--> will an diesem neuen internet mitmachen
+will "echtes internet" machen, in frei, mit spaß und experimentieren (ging auf arbeit nicht, da hatte man die freiheit nicht)
+netzwerk verwalten, mitmachen, mitaufbauen
+nicht nur nerd, freiheit liebender mensch
+ff ist grundversorgung, jeder mensch mit endgerät kann teilnehmen (ins internet aber auch untereinander meshen)
+~ vor 2 Jahre neue Gruppenbildung, mit neuer Infrastruktur, BATMAN, VPN
+
+1.2 ~2 jahre
+
+1.3 serverbetreuung, aufsetzen, zugearbeitet, dass supernode aufgesetzt wird, router geflasht, geholfen anderen, router zu flashen, zu hause ein netzwerk aufgebaut (meshnetzwerk)
+davor eher durch das technische reingerutscht
+macht im mom eher öffentlichkeitsarbeit (logos, aufkleber, webseite, radiointerviews)
+an podiumsdiskussion zum neuen telemediengesetz an der uni teilgenommen (eingeladen)
+
+1.4 verein gibts; nicht mitglied
+    an orgatreffen auch nicht aktiv teilnehmen
+    rege auf der mailingliste aktiv
+    gruppe läuft gut, gibts leute die gruppen gut orgern können am start
+
+1.5 cool: anspruch am ende "weltweites" freies netzwerk (auch wenn utopisch und mit jetzigen tech stand nicht möglich), aber cool infrastruktur zu haben, wenn alles abgeraucht ist
+gemeinsames projekt mit menschen, nicht nur jede person an ihrem kram brüten
+uncool: webseite sollte so gestalten werden, dass auch durch nicht sehr tech menschen benutzbar ist, ein kanal, die leute sollten nicht bei facebook ihren ff kram posten, weils einfacher ist
+treffen, die man viel redet und nichts passiert sind auch lästig
+
+1.6 devops;
+
+-------------
+primäre motivation:
+bessere welt schaffen,
+eigene kommunikationsinfrastruktur bauen, es geht auch technisch!
+dezentral! in der hand der nutzer_innen
+
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
+ja! deshalb anfangen
+neue Protokolle, war spannend
+
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+anwenden! (vor allem die neuen Protokolle)
+auch Möglichkeit Fehler zu machen und was zu lernen
+
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+nee; will nicht in vorgegeben hierarchischen Strukturen sich einfügen
+
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+ja!
+(auch keine konzerne, die mitlesen)
+
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+ne, nicht in dem sinne
+aber gelernt eine mesh-netzwerklösung zu deployen
+
+2.6 Mir ist Netzneutralität wichtig
+ja!
+
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+macht beruflich auch wlan installationen, versucht das aber von ff zu trennen
+
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+Kontakte und Arbeitgeber_innen finden ist schon mit drin, passiert auch iwie ganz normal
+aber keine Motivation
+auch wenn es schön ist zeigen zu können, was man drauf hat (das ist auch bisschen motivation)
+vorteil an freien projekten: man machts weil man lust hat und wird auch sichtbar
+
+
+-----------------------------------------------------
+9)
+
+1.1 ganze Thematik freie Netze: interessant: machen! ich will das netz haben, was cooles was man damit machen kann, findet man schon
+1.2 10. Anlauf, Gruppe besteht seit 3 Jahren, beim Gedanken schon seit 10 Jahren
+1.3 serverinfrastruktur betreuen, router geflasht, richtfunkstrcken bauen; öffentlichkeitsarbeit mitgemacht : interviews, radio, zeitung
+1.4 ja; 10 kernleute
+1.5 cool: macht spaß; gute kooperation mit der stadt (auch in geflüchtete vernetzen, aber nicht nur), stadt schiebt auch geld dazu
+          macht spaß gewollt, gebraucht zu werden;
+          netzwerke machen auch spaß
+    uncool: zu viel gelabbert, zu wenig gemacht, besteht wenig bereitschaft, sich um nervige infrastrukturthemen zu kümmern
+1.6 technikhintergrund ja, auch netzwerk
+
+primärmotivation:
+was sinnvolles mit der eigenen zeit und geld zu machen
+* freien netzzugang für alle
+* aufklärung: was ist netz, wie das funktioniert, wie sicher ist das?
+* communitygefühl
+
+2.1 nicht sooo anspruchsvoll, nicht so viel neues; auch im wlan bereich gearbeitet in der uni
+    aber schon spannend sich damit auseinander zu setzen
+2.2    aber wusste schon alles wie das alles geht im grunde
+
+2.3 zum einstieg nicht, aber war auch spannend sich damit auseinander zu setzen
+
+2.4 ja, auf jdeden; ist schwierig, wenn einer einzelperson viel infrastruktur "gehört"
+
+2.5 ne
+
+2.6 schon; aber um jeden preis zu fordern ist schwierig und nicht sehr schlau
+
+2.8 schreibt man schon in den lebenslauf mit auf aber auf keinen fall bewegender grund ff zu machen
+-----------------------------------------------------
+
+8)
+
+1.1 kennt das konzept seit langem
+    "charmante idee": miteinander funken, sachen mit dem netz machen, sich mit der nachbarschaft vernetzen, eigene dienste anbieten, community basierte arbeit (nicht nur internet)
+
+1.2 seit Nov 2012
+
+warum mache ich:
+* offen, können alle mitmachen, die gerät haben, das wlan kann; möglichkeit der digitalen teilhabe für alle; netz erweitern ist billig, unabhängig vom internet, zensurfrei, "polit mittelfinger gegenüber telekom", unabhängig von providern, niemand hat kontrolle übers ganze netz, gemeinschaft entscheidet gemeinsam wo das hingeht; wunderbare möglichkeit zu lernen; auch leute kennenzulernen, freunde finden :)
+selber machen! ist wichtig, wenn wirs nicht machen, machts keiner
+
+1.3 bisschen firmware; router mitgeflascht; die seite weiterentwickelt; auch texte für  "werbe"zwecke gemacht; das logo entwickelt; das zentrale knotenformular entwickelt; podcast über ff ("freisprech"); "flashmaschine" aus raspberry pi fürs 30c3 gebaut :); webserver konfiguriert.....
+
+1.4 Wie aktiv nimmst du an Orga teil?
+bei 90% der treffen;
+wichtig mit neuen menschen zu kommunizieren
+das forum als feedback möglichkeit; auch wenn von vielen gehasst (trolle, etc)
+
+1.5 Was findest du an dem Projekt cool? Was findest du weniger cool?
+cool: wie viele leute jetzt das toll finden, auch in verbindung mit "newcomer"-thematik, wie viele leute haben sich einzubrignen und mitzuhelfen; viele verschiedene mögliche ausprägungen gibt; wie viele neue communities aufpoppen;
+uncool: kommerzielle ausprägungen
+man muss aufpassen, die eigene ideale nicht zu verraten
+
+1.6 hintergrund?
+ beruflich software entwickler: webanwendungen bauen;
+ interessiert sich auch für design
+
+Konkreter:
+----------
+
+hauptmotivation:
+schwankt
+community ans herz gewachsen (in hamburg und generell) --> vernetzung, familiarität
+community das allerwichtigste, alles andere kommt danach
+
+(in hh harter kern 10-15, die zu treffen kommen; es gibt aber viele menschen, die sachen machen, aber gar nicht zu treffen kommen)
+
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
+netzwerk ist anspruchsvoll, spannend nicht immer
+technisch interessante sachen gibts nicht nur auf ebene netzwerk, die machen mehr spaß
+auch iwie wichtig
+
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+einzelne themen, ein bisschen, nicht primärer fokus
+
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+will sich gar nicht mit auseinander setzen, man muss es aber 
+
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+ja
+auch vom internet unabhängig ist
+demokratieversicherung!
+wenn die revolution ausbricht will ich hh netz haben
+
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+ne
+
+2.6 Mir ist Netzneutralität wichtig
+ja! pico-peering agreement ist auch total wichtig
+splash pages gehen gar nicht
+
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+man schreibts in den lebenslauf (ist nice)
+aber ist überhaupt nicht antrieb 
+
+-------------------------------------------------------------------
+
+7) x aus bremen
+
+freies netz, ohne störerhaftung, anonym, ist toll; selber kontrolle zu haben
+hat aber keine zeit zur zeit und ist noch gar nicht dabei
+
+-------------------------------------------------------
+4 und 5 und 6)
+
+4)
+1.1 hat gesehen, dass das jemand ein knoten aufstellt und schüler nutzen das auf der haltestelle; wollte er auch machen, hat er bei sich einen router aufgestellt; später aufgefallen, dass das auch geflüchtete oft nutzen.
+1.2 letztes jahr im sommer
+1.3 1 router aufgestellt; regelmäßig gegangen; mitmachen infrastruktur für die community (gateway-server) mitbefreien; rheinland server (als isp gemeldet) mitgeholfen --> backbone betreiben
+1.4 regelmäßig bei treffen dabei; geht auch viel über online-kanälen; ticketsystem betreuen;
+1.5 cool: man sieht, das benutzt wer! (geflüchtete, schüler benutzen das, positiver feedback)
+    uncool: erwartungshaltung komisch? ist kein service! (bei bodems auch --> 6), keine dienstleistung, sondern mitmachprojekt!
+            leute, die pöbbeln und öffentlich anprangern; auch keine konstruktive lösungsvorschläge
+1.6 unix sysadmin bei it dienstleister
+
+--
+primärmotivation: technisch spannend und es hilft (bei bodems auch; parallele infrastruktur zum internet; nicht von konzernen abhängig)
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen -- ja
+
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren -- iwie nebenprodukt, nicht hauptmotivation
+
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+sollen leute machen, die das besser können
+ist nicht irrelevant, hat sich auch stück für interessiert, aber ...
+
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+cool; aber utopisch; kann man dienste anbieten; passiert aber nicht; lange richtfunktstrecken? was macht man da? flächendeckend das konzept betreiben geht nicht; eher auf das internet angewiesen
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+ne; aber wird vlt demnächst ein projekt geben, wo eine geflüchtete unterkunft angeschlossen wird, die sonst keinen anschluss kriegt
+
+2.6 Mir ist Netzneutralität wichtig
+ist wichtig, aber nicht sehr bewegender faktor
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+ne; hilfe zur selbsthilfe!
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+ne, will lieber bei serveradminsitration bleiben; vlt ergibt sich so was, aber echt nicht auschlaggebend
+
+-----------------------------------------------------------------------------------------
+
+5)
+1.1  hat bei sich nen router aufgestellt, mit den nachbarn geschnackt, hat denen mesh-routern konfiguriert und angedreht --> kleines mesh entstanden, hat sein internet mit reingesteckt
+1.2. letztes jahr im herbst die ssid gefunden, sich informiert, was es ist, bei dem war nix um die ecke
+1.3 router aufgestellt, mit sponsoren geredet (sparkassen, firmen, kirchturmvernetzung); auch auf kirchen was installiert, viele kleine routerinstallationen vor ort (büchereinen, eisdielen); viel mit menschen reden (was das ist)
+1.4 auch (community auch örtlich groß, siehe oben, selbe community); community verstreut; pro ort 1 aktive person (ungefähr), sehr verstreut, schwierige koordination
+1.5 cool: viele leute kennengelernt; --> mit nem #ähnlichen mindset (die jenigen, die router bei sich aufstellen, die idee zu teilen cool finden) --> community gefühl, vernetzung
+uncool: leute, die in die presse sich als organisator_innen ausgeben und nur auf dem ruhm aus sind; trotzdem ist auch wichtig, dass jemand mit der presse und mit der stadt redet
+1.6 netzwerkadmin/support bei mittelständischem unternehmen
+---
+
+primärmotivation: was neues machen, worauf man bock hat, nicht vom arbeitgeber vorgegeben; man kann auch das anwenden, was man gelernt hat; 
+großes projekt, man kann sich auch immer wieder an ner neuen ecke anbringen;
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen -- ja
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren --kommt dazu, nicht hauptmotivation
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+sollen leute machen, die das besser können
+ist nicht irrelevant, hat sich auch stück für interessiert, aber ...
+
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+cool; aber utopisch; kann man dienste anbieten; passiert aber nicht; lange richtfunktstrecken? was macht man da? flächendeckend das konzept betreiben geht nicht; eher auf das internet angewiesen (kleine, verstreue community, landschaftlich quatsch)
+
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+ne
+
+2.6 Mir ist Netzneutralität wichtig
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+---------------------------------------------------------------------------------
+
+
+6)
+1.1 kannte schon die webseite, war fast schon wieder tot das projekt, ist zum treffen im hackerspace gegangen (auf der webseite gefunden), war erstmal niemand da; später sich mit dem einzigen aktiven getroffen; erstmal testnetzwerk gebaut; an der firmware gefrikkelt und an dem server (erstmal)
+1.2 2012 nach bielefeld gezogen (da kannte er schon die idee, aber war nicht aktiv)
+1.3 server administrieren; ganz wenig firmware entwicklung; demnächst wollen sie richtfunkstrecken aufbauen (backbone), gibts da noch nicht
+1.4 jeden dienstag ab 18 uhr treffen, nimmt regelmäßig teil; auch hilfe zur selbsthilfe; auch viel über chatrooms diskutiert, entschieden
+1.5 cool: viel über netzwerktechnik gelernt (wenn privat sich damit beschäftigt, findet man kaum ein anderes projekt, wo man so viel lernen kann)
+    uncool: verein gründen oder nicht? brint vorteile aber schluckt ressourcen und man sollte lieber tatsächlich netz machen;
+            leute, die sich beschweren, dass es zu langsam ist (obwohl es für sie nix kostet)
+1.6 ausbildung zu eletroniker gemacht (betriebstechnik)
+   elektrotechnik studieren
+---
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen -- ja
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren -- iwie auch vorwissen, nicht hintergedanke, aber man lernt viel dazu in kurzer zeit;
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+ne
+
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+ja
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+ne
+2.6 Mir ist Netzneutralität wichtig
+ja schon; man kanns zumindest versuchen :)
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+ne
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+will später in die energie-branche gehen; eher irrelevant; ist so ein hobby sache, was kann man privat machen
+
+---------------------------------------------------------------
+
+3)
+
+1.1 keine erinnerung: jemand auf arbeit erwähnt/interview? auf der webseite geguckt, was es ist
+    --> cooles projekt, kann man ohne großen aufwand unterstützen
+    router zu hause aufgestellt: gegenüber schule, dadrunter eisdiele
+    am anfang alleine gemacht, kein kontakt (nur mailingliste wegen vpn keys)
+    dann entschlossen auf arbeit zu machen ()
+    mit dem kollegen zum mabb treffen in wikimedia gegangen --> persönlichen kontakt das erste mal
+1.2 seit ~9 monaten
+1.3 tempelhofer ufer mitaufgebaut (geflüchteten heim)
+    anderen backbonestandort demnächst
+    die idee nach außen tragen (leute fragen, ob sie ihren anschluß teilen wollen, oder ihr dach als standort zur verfügung stellen)
+1.4 ne, macht schon mit, aber nicht sichtbar in der community, nimmt an besprechungen nicht teil (doocracy)
+   tausend diskiussionen wie macht man das, alle haben bock, und ne meinung zum aufbau und am ende kommt niemand
+1.5 cool: freien internetzugang anbieten für leute, die keinen zugang haben; auch freies netzwerk aufbauen cool, aber auch anspruchsvoll;
+          dezentralisierung ist gut, macht sachen aber auch schwierig
+    uncool: wenn niemand da ist, bist du isoliert, kannst internet anbieten (hotspot mäßig), aber mesht nicht mit anderen
+1.6 it hintergrund, auch marginal mit netzwerken; kein programmierer im engeren sinne, aber technischer mensch
+
+---
+2.1 technisch findet er das eher langweilig
+    sieht, dass man technisch sachen anders machen könnte, so dass es sinnvoller/spannender ist, aber nimmt an der umsetzung nicht teil
+
+hauptmotivation: teilen, zur verfügung stellen f+ür menschen, die es brauchen! (heute vorrangig: geflüchteten)
+2.2 siehe oben (weiß er schon)
+2.3 ja, im lobbyumefeld unterwegs, redet mit menschen, die politik beeinflußen; politische motivation ist dabei (war nicht einstiegspunkt, aber kam später dazu)
+2.4 jo, schon wichtig; ff ist vermutlich nicht die beste lösung dafür, guter anfang, aber man muss weiter arbeiten (fasern vlt?)
+2.5 ne, stellt anderen seinen anschluss zur verfügung
+2.6 findet er nicht, dass das projekt viel damit zu tun hat (aber dem ist schon netzneutralität wichtig)
+2.7 ne
+2.8 auch nicht
+
+
+
+------------------------------------------------------------------------------------------------------
+2)
+
+1.1 
+das 1. Mal gesehen: aufm Kongress vor 10 Jahren
+elitärer Haufen von Berlinern :)
+Spannende Idee eigene Software aufm Router laufen
+eigene Infrastruktur aufbauen, unabhängig von Providern
+
+~2012 auf NB Camp: Netz mit aufgebaut
+(Informatikstudium, Schwerpunkt Telekommunikationen), hatte schon technische Kenntnisse vorher
+
+nachher daraus das FF Rheinland Backbone daraus entstanden
+
+FF Rheinland gabs schon davor als Verein, danach beigetreten
+
+so richtig ins rollen kams vor 2 Jahren
+
+1.3
+* selber Knoten aufgestellt
+* FF Karlsruhe ins Leben gerufen
+* Supernode gesponsort
+* Doku zur Backbone gemacht
+* "andere Nerds im Dorf für begeistert"
+
+1.4 Wie aktiv nimmst du an Orga teil?
+* jo, Backbone erfordert ne Menge Orga
+* auch in der Gruppe Entscheidungen getroffen werden
+
+1.5 Was findest du an dem Projekt cool? Was findest du weniger cool?
+cool
+* unabhängiges Netz, nicht von Einzelperson abzuschalten
+
+uncool
+* müßige Diskussion: wo wollen wir hin? Persönliche Diskussion
+
+
+spannend mit minimalen Resourcen maximale ergebnisse rauszuholen
+technische/politische/wirtschaftliche Herausforderung
+auch spannend mit verschiedenen Routern das zu machen (abwechslung, auch wenn manchmal krampfig^^)
+
+Konkreter
+
+
+---------
+Spielen folgende Punkte ne Rolle für deine Motivation:
+2.1 Freifunk ist technisch spannend/anspruchsvoll und es macht Spaß, sich damit auseinander zu setzen
+2.2 Ich will mir die technischen Fähigkeiten aneingnen, wie WLAN/Mesh-Netzwerke/... funktionieren
+fände spannend, sich mit WLAN auseinander zu setzen, mit Kupfer und Fasern kennt sich besser aus
+2.3 Ich will mich mit den gesetzlichen Rahmenbedinungen auseinandersetzen
+hat im Studium getan (waren Pflicht), findet wichtig, würde auffrischen
+2.4 Ich will eine freie, community-betriebene Kommunikationsinfrastruktur (mit)schaffen, weil ich denke, es ist Scheiße, dass alles in den Händen von paar Konzernen ist
+jo! auch wichtig, dass nicht ohne weiteres staatlich zu unterbinden ist
+2.5 Ich hab damit angefangen, weil die kommerziellen Providern keine Lust hatten, mich anzuschließen, weil es sich für sie nicht gelohnt hat
+trifft nicht zu
+2.6 Mir ist Netzneutralität wichtig
+absolut
+2.7 Ich mach beruflich das mit Freifunk beruflich: krieg Geld für Knoten einrichten, Wartung, ...
+ne
+2.8 Ich mach/will machen was auf dem Gebiet beruflich und das ist die Gelegenheit, meine Fähigkeiten aufzupollieren/Kontakte knüpfen/für Arbeitgeber_innen sichtbar werden
+network engeneer beruflich
+eher anders rum, berufliches wissen für freifunk verwenden
+man hebt sich damit bisschen ab, könnte tendenziell zu besseren job chancen verhelfen, aber keine motivation ff zu machen
+
+
+ich verstehe nicht, leute die nicht wissen wollen wie das zeug funktionier
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+1)
+
+
+1.1)1. Begegnung Bar gabs Freifunk, hat jemand erzählt: freies Internet, konnte man mit arbeiten
+ aufm kongress router gekauft (nach einiger Zeit), geflascht, zu Hause aufgestellt
+ (umständlich, in die cbase gefahren, sich helfen lassen)
+ zuerst waren sie eine Insel, später sich mit dem Backbone verbunden (als das Rathaus stand)
+
+1.2) ~2 Jahre (von Router kaufen bis heute)
+
+1.3) * Assistänten angefangen (der war so buggy, dass man das selber in die Hand nehmen musste)
+     * auch doku
+     * Flyer gestaltet (die aus Darmstadt berlenisieren), Nachbarschaftsflyer
+     * Videos mitgedreht
+     * Backboneinstallationen mitgemacht
+     * (oder andere Standorte auch Event bezogen fit gemacht)
+1.4) nicht aktiv, eher mitmachen wenn jemand sagt "eh, bist du bei xy dabei"
+
+1.5)
+motivation mitzumachen am Anfang: ein Netz, das den Leuten gehört, die das aufbauen, Teil davon zu sein --> coole Vorstellung
+kann sich mit wofür Freifunk steht identifizieren
+* Freiheit von Providern
+* Netzneutralität
+* kostenlos (für viele Leute) --> keine Nutzungshürde für Endnutzer_innen, nicht zahlen, sich nicht ausweisen, offen für alle
+
+Community ist cool (Konzept ist cool)
+--> wenn man sich ROuter aufstellt, ist man Freifunk_er
+
+auch normal wenn in Menschengruppen Konflikte und Kommunikationsprobleme gibt
+hängt sich auch nicht wirklich rein
+eskaliert nicht krass oder große Gräben sind da, weil gemeinsame Ziele da sind
+mehr Struktur hat Vorteile, aber würde bestimmte Freiheit auch wegnehmen
+
+Ihr Ziel: nicht Berlin komplett vernetzen, sondern eher Nachbarn helfen, hier und da was weg
+
+------------------------
+Konkrete Motivationen
+1) teil vom netz sein, 
+2) technische herausvorderung, spaß, wie funktioniert das
+
+
+Auseinandersetzung mit Gesetz:
+* eher zwangsläufig
+* aber sind Sachen, die man politisch doof finden und will sich dagegen wehren, deshalb setzt man sich auch damit auseinander
+
+Mit anderen teilen als motivation
+
+macht beruflich nichts damit (programmiererin), auch nicht ersichtlich, dass es in naher zukunft passiert
+projekt war nochma motivation sich mit netzwerken auseinander zu setzen (war langweilig an der uni)
+
+Projekte, die Geflüchteten helfen, sind eben das Paradebeispiel für die Freifunkidee und teilen
+möchte gerne da mehr machen, aber Zeit fehlt
+

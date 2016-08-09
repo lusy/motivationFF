@@ -11,7 +11,7 @@ I apologise for any inaccuracies.
 
 ## paper
 
-I'm also writing a paper [paper](https://github.com/lusy/hausarbeiten/tree/master/motivFossCn) which tries to compare the motivations of the Freifunk and the FLOSS communities.
+I'm also writing a [paper](https://github.com/lusy/motFossFf-paper) which tries to compare the motivations of the Freifunk and the FLOSS communities.
 
 ## attribution
 

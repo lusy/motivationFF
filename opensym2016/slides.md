@@ -34,6 +34,9 @@ Community Compared to FLOSS
 
 # Threats to Validity
 
+1. "Working for Free? Motivations for Participating in Open-Source Projects" Alexander Hars und Shaosong Ou (2002)
+2. "Why Hackers Do What They Do: Understanding Motivation in Free/Open Source Software Projects" Karim Lakhani und Robert Wolf (2005)
+
 ---
 
 # Organisation of the findings

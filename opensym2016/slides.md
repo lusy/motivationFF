@@ -43,6 +43,10 @@ Community Compared to FLOSS
 
 !motivations continuum
 
+~ Amotivation $\rightarrow$ External Regulation $\rightarrow$ Extrinsic Motivation: satisfying (personal) needs $\rightarrow$ Extrinsic Motivation: expected approval from self or others $\rightarrow$ Extrinsic Motivation: Community Identification $\rightarrow$ Extrinsic Motivation: Ideology $\rightarrow$ Intrinsic Motivation
+
+~ $\rightarrow$ with growing feeling of autonomy and competence, people identify more with the task at hand and motivation rises
+
 ---
 
 # Why have you started to participate in Freifunk?

@@ -15,6 +15,13 @@ Community Compared to FLOSS
 
 # Exkurs: Community Networks
 
+* free, decentralised communication infrastructure set up and managed by its users
+  ** typically wifi networks (often connected to the internet)
+  ** other types of networks possible though: fiber, gsm, ..
+* free firmware
+* free access to the network for everyone with a wifi capable device
+* information is passed along without tampering or prioritising
+
 ---
 
 # August 2016

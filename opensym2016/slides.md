@@ -1,7 +1,4 @@
-% Out of Altruism or Because it Reads
-Well on the CV?: The Motivations for
-Participation in the Freifunk
-Community Compared to FLOSS
+% Out of Altruism or Because it Reads Well on the CV?: The Motivations for Participation in the Freifunk Community Compared to FLOSS
 % Lyudmila Vaseva (vaseva@mi.fu-berlin.de)
 
 ---
@@ -191,7 +188,7 @@ they underlined that they had not joined the
 project in order to become visible for potential
 employers.
 
-### Broading the own technical know-how
+### Broadening the own technical know-how
 
 * "learnt a lot about network technic (there's scarcely another free time project where you can learn so much about it)"
 

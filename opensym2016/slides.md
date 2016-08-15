@@ -42,7 +42,7 @@
 
 ---
 
-# Why have you started to participate in Freifunk?
+# Why have you started to participate in Freifunk? What's cool about the project?
   (Motivations overview / Otöne) --> vlt auch zu den jeweiligen "Kapitel" runterziehen
 
 ---
@@ -54,6 +54,8 @@
 * "There was no (usable) Internet in Friedrichshein till 2003"
 * "Intersection community -- technic is intriguing"
 * "the legal regulations changed, so it was at once possible to freely deploy wifi networks"
+* "from today's perspective: how big it has become"
+* "I've learnt a lot about how communities work and don't, how much structure is helpful/not, what voluntary work means, what tasks get ignored and why, what should be decided at all costs and who decides, ..."
 
 ---
 
@@ -183,41 +185,6 @@ the project seemed to play a very central role.
 * "you can climb on church towers and look at the city from above, which is pretty cool :)"
 * "it's technically challenging despite the fact that I've abandoned the idea that it could be an alternative to the last mile of the German Telekom"
 * "challenge: to get maximal results with minimus resources"
-
----
-
-
-# What's cool about the project? What's your primary motivation?
-
----
-
-### Project / community work
-
-* "from today's perspective: how big it has become"
-* "I've learnt a lot about how communities work and don't, how much structure is helpful/not, what voluntary work means, what tasks get ignored and why, what should be decided at all costs and who decides, ..."
-
----
-
-
----
-
-
----
-
-### Educational Mandate
-
-* "a lot of people have learnt a lot about it infrastructure in this context"
-* "education: what's computer network, how does it work, how secure is it?"
-
----
-
-
-
----
-
-
----
-
 
 ---
 

@@ -40,8 +40,6 @@
 
 ![motivations continuum](images/motivation_continuum.png)
 
-
-
 ---
 
 # Why have you started to participate in Freifunk?
@@ -59,42 +57,56 @@
 
 ---
 
-# Intrinsic Motivation
+# Extrinsic Motivation: expectation of a future reward
 
-willingness of people to engage in an
-activity they find interesting and enjoyable by
-itself.
+Interviewed Freifunkers, on the other hand,
+regarded these reasons mostly as a byproduct
+of their work and not as a primary source of
+motivation. None of the activists reported to
+engage in the Freifunk project because of a
+monetary compensation (although one partici-
+pant mentioned they were considering offering
+Freifunk related services professionally, this
+was not amongst the person’s primary motiva-
+tions to engage in the project)
+Some declared
+that they wanted to polish their technical skills
+and acquire deeper understanding of the work-
+ings of (wifi mesh) networks (6 out of 16 people
+mentioned this), which is “hardly possible to
+this extent in another project which one can do
+in private in one’s spare time”. However, this
+was also not the main motive for them to be
+active in the Freifunk community.
+Neither are networking or getting better job
+opportunities a driving force for the partici-
+pants. Some of them talked of these as (useful)
+consequences of their engagement. However,
+they underlined that they had not joined the
+project in order to become visible for potential
+employers.
 
-14 (out of 16) people
+### Broadening the own technical know-how
 
-### Technically interesting/challenging
-
-* "there's stuff you can physically touch (more tangible compared to coding), it makes you happy :)"
-* "you can climb on church towers and look at the city from above, which is pretty cool :)"
-* "it's technically challenging despite the fact that I've abandoned the idea that it could be an alternative to the last mile of the German Telekom"
-* "challenge: to get maximal results with minimus resources"
+* "learnt a lot about network technic (there's scarcely another free time project where you can learn so much about it)"
 
 ---
 
-# Extrinsic Motivation: ideology
+# Extrinsic Motivation: satisfying (personal) needs
 
-if individuals
-  act out of conviction, because they identify
-  with a certain set of values, we are presented
-  with extrinsic motivation, but one where self-
-  determination is strong and consequently the
-  motivation itself is it as well
+### Provide access to Internet to people who don't have it
 
-For the majority of the interviewees in the
-Freifunk survey however, the political aspect of
-the project seemed to play a very central role.
+* "There was no (usable) Internet in Friedrichshein in 2003" <-- motivation for people who joined before 2008
+* "share the own internet connection with people who need it! (today, primarily refugees)"
 
-### free infrastructure
+---
 
-* "there is a right to free communication and information"
-* "free, decentralised communication infrastructure built and managed by the people who use it and not by the state or business players"
-* "independent network, cannot be switched off by a single person"
-* "decentralised infrastructure is good, but it also makes things difficult"
+# Extrinsic Motivation: expected approval from self or others
+
+### The feeling that my work is needed and valued
+
+* "it's cool to have the feeling that people need you"
+* "you can see that people use it (refugees; students; positive feedback)"
 
 ---
 
@@ -139,58 +151,41 @@ do with pleasure and which tasks get ignored
 
 ---
 
-# Extrinsic Motivation: expected approval from self or others
+# Extrinsic Motivation: ideology
 
-### The feeling that my work is needed and valued
+if individuals
+  act out of conviction, because they identify
+  with a certain set of values, we are presented
+  with extrinsic motivation, but one where self-
+  determination is strong and consequently the
+  motivation itself is it as well
 
-* "it's cool to have the feeling that people need you"
-* "you can see that people use it (refugees; students; positive feedback)"
+For the majority of the interviewees in the
+Freifunk survey however, the political aspect of
+the project seemed to play a very central role.
+
+### free infrastructure
+
+* "there is a right to free communication and information"
+* "free, decentralised communication infrastructure built and managed by the people who use it and not by the state or business players"
+* "independent network, cannot be switched off by a single person"
+* "decentralised infrastructure is good, but it also makes things difficult"
+
+---
+
+# Intrinsic Motivation
+
+14 (out of 16) people
+
+### Technically interesting/challenging
+
+* "there's stuff you can physically touch (more tangible compared to coding), it makes you happy :)"
+* "you can climb on church towers and look at the city from above, which is pretty cool :)"
+* "it's technically challenging despite the fact that I've abandoned the idea that it could be an alternative to the last mile of the German Telekom"
+* "challenge: to get maximal results with minimus resources"
 
 ---
 
-# Extrinsic Motivation: satisfying (personal) needs
-
-### Provide access to Internet to people who don't have it
-
-* "There was no (usable) Internet in Friedrichshein in 2003" <-- motivation for people who joined before 2008
-* "share the own internet connection with people who need it! (today, primarily refugees)"
-
----
-
-# Extrinsic Motivation: expectation of a future reward
-
-Interviewed Freifunkers, on the other hand,
-regarded these reasons mostly as a byproduct
-of their work and not as a primary source of
-motivation. None of the activists reported to
-engage in the Freifunk project because of a
-monetary compensation (although one partici-
-pant mentioned they were considering offering
-Freifunk related services professionally, this
-was not amongst the person’s primary motiva-
-tions to engage in the project)
-Some declared
-that they wanted to polish their technical skills
-and acquire deeper understanding of the work-
-ings of (wifi mesh) networks (6 out of 16 people
-mentioned this), which is “hardly possible to
-this extent in another project which one can do
-in private in one’s spare time”. However, this
-was also not the main motive for them to be
-active in the Freifunk community.
-Neither are networking or getting better job
-opportunities a driving force for the partici-
-pants. Some of them talked of these as (useful)
-consequences of their engagement. However,
-they underlined that they had not joined the
-project in order to become visible for potential
-employers.
-
-### Broadening the own technical know-how
-
-* "learnt a lot about network technic (there's scarcely another free time project where you can learn so much about it)"
-
----
 
 # What's cool about the project? What's your primary motivation?
 

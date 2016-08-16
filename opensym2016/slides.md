@@ -62,6 +62,9 @@ note: don't want transitions here!
 
 ## Extrinsic Motivation: expectation of a future reward
 
+* no monetary compensation
+* not seen as networking/visibility platform
+* polish technical skills, learn about (wifi mesh) networks (6 of 16 people)
 * "learnt a lot about network technic (there's scarcely another free time project where you can learn so much about it)"
 
 ~ (TODO: transition!) $\rightarrow$ byproduct, not a primary source of motivation

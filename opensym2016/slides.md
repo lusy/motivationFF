@@ -1,4 +1,5 @@
-% Out of Altruism or Because it Reads Well on the CV?: The Motivations for Participation in the Freifunk Community Compared to FLOSS
+% Out of Altruism or Because it Reads Well on the CV?
+% The Motivations for Participation in the Freifunk Community Compared to FLOSS
 % Lyudmila Vaseva (vaseva@mi.fu-berlin.de)
 
 ---
@@ -59,42 +60,13 @@
 
 ---
 
-# Extrinsic Motivation: expectation of a future reward
-
-Interviewed Freifunkers, on the other hand,
-regarded these reasons mostly as a byproduct
-of their work and not as a primary source of
-motivation. None of the activists reported to
-engage in the Freifunk project because of a
-monetary compensation (although one partici-
-pant mentioned they were considering offering
-Freifunk related services professionally, this
-was not amongst the person’s primary motiva-
-tions to engage in the project)
-Some declared
-that they wanted to polish their technical skills
-and acquire deeper understanding of the work-
-ings of (wifi mesh) networks (6 out of 16 people
-mentioned this), which is “hardly possible to
-this extent in another project which one can do
-in private in one’s spare time”. However, this
-was also not the main motive for them to be
-active in the Freifunk community.
-Neither are networking or getting better job
-opportunities a driving force for the partici-
-pants. Some of them talked of these as (useful)
-consequences of their engagement. However,
-they underlined that they had not joined the
-project in order to become visible for potential
-employers.
-
-### Broadening the own technical know-how
+## Extrinsic Motivation: expectation of a future reward
 
 * "learnt a lot about network technic (there's scarcely another free time project where you can learn so much about it)"
 
 ---
 
-# Extrinsic Motivation: satisfying (personal) needs
+## Extrinsic Motivation: satisfying (personal) needs
 
 ### Provide access to Internet to people who don't have it
 
@@ -103,7 +75,7 @@ employers.
 
 ---
 
-# Extrinsic Motivation: expected approval from self or others
+## Extrinsic Motivation: expected approval from self or others
 
 ### The feeling that my work is needed and valued
 
@@ -112,7 +84,7 @@ employers.
 
 ---
 
-# Extrinsic Motivation: feeling as a part of a community
+## Extrinsic Motivation: feeling as a part of a community
 
 Several Freifunk activists mentioned the
 community aspect of their work, the feeling
@@ -153,7 +125,7 @@ do with pleasure and which tasks get ignored
 
 ---
 
-# Extrinsic Motivation: ideology
+## Extrinsic Motivation: ideology
 
 if individuals
   act out of conviction, because they identify
@@ -175,7 +147,7 @@ the project seemed to play a very central role.
 
 ---
 
-# Intrinsic Motivation
+## Intrinsic Motivation
 
 14 (out of 16) people
 

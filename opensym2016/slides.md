@@ -116,48 +116,6 @@ note: don't want transitions here!
 
 ---
 
-# What's not so cool?
-
----
-
-### Sharing knowledge gets neglected
-
-* "the idea of sharing knowledge is not as focused as it should be"
-* "there are knowledge hierarchies, at the end people are not really glad to work without hierarchies"
-* "it's tough to have so much egos screaming for attention piled together"
-
----
-
-### The communication/discussion culture
-
-* "working in team is often difficult"
-* "when people think, they've found THE way and try to push it onto everybody else and seize control"
-* "if there are battles between single persons, it sometimes endagers the whole project"
-* "meetings with a lot of talking and little actions are annoying"
-
----
-
-### Gender
-
-* "community consists primarily of men, it's difficult to open up"
-
----
-
-### Difficult to communicate the idea
-
-* "it's difficult to convey the topic of informational self-determination to people outside the community. It's only starting to get more present in the current refugee context"
-* "there are users with a service mentality who only complain when stuff doesn't work but do not actively try to do something about it"
-
----
-
-### (technical) Limitations
-
-* "unfortunately, the political idea is not really scalling (technically)"
-* "the whole project depends too much on the effort of single people; only few really do understand how it works and are able to manage it"
-* "it only gets technically interesting if the network grows, however, it then does attract the service mentality people and drives away the developers"
-
----
-
 # Conclusions
 
 * studying motivations' development over longer time units

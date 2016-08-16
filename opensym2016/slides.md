@@ -98,23 +98,12 @@ note: don't want transitions here!
 
 ## Extrinsic Motivation: ideology
 
-if individuals
-  act out of conviction, because they identify
-  with a certain set of values, we are presented
-  with extrinsic motivation, but one where self-
-  determination is strong and consequently the
-  motivation itself is it as well
-
-For the majority of the interviewees in the
-Freifunk survey however, the political aspect of
-the project seemed to play a very central role.
-
-### free infrastructure
-
 * "there is a right to free communication and information"
 * "free, decentralised communication infrastructure built and managed by the people who use it and not by the state or business players"
 * "independent network, cannot be switched off by a single person"
 * "decentralised infrastructure is good, but it also makes things difficult"
+
+~ (TODO: transition!) $\rightarrow$ political aspect plays a very central role
 
 ---
 

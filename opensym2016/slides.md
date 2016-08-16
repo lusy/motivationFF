@@ -132,9 +132,9 @@ Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classi
 
 ---
 
-# Licence
+# License
 
-These slides are under the [by-sa Creative Common Lizenz](https://creativecommons.org/licenses/by-sa/4.0/).
+These slides are under the [by-sa Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/).
 ![by](images/Cc-by_new_white.svg)
 ![sa](images/Cc-sa_white.svg)
 

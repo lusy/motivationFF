@@ -109,10 +109,7 @@ note: don't want transitions here!
 
 ## Intrinsic Motivation
 
-14 (out of 16) people
-
-### Technically interesting/challenging
-
+* technically interesting/challenging (14 out of 16 people)
 * "there's stuff you can physically touch (more tangible compared to coding), it makes you happy :)"
 * "you can climb on church towers and look at the city from above, which is pretty cool :)"
 * "it's technically challenging despite the fact that I've abandoned the idea that it could be an alternative to the last mile of the German Telekom"

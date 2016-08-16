@@ -1,0 +1,112 @@
+Sich vorstellen: setzt die Erwartungen
+
+Was ist die Story?
+
+Was ist die Message? Womit sollen die Besuchenden rausgehen?
+
+Was wissen die Menschen schon?
+Was ist das neue? (<-- focus here)
+
+
+=================================
+
+Intro
+------
+
+TODO: Refer to "Motivations for newcomers to FLOSS" talk!
+
+Hi,...
+my name is...
+I'm a computer science student at the FU Berlin.
+What I'm going to tell you today started as a project paper for a class called "Contributions to software engineering" I took last semester.
+I chose to take this class because of its broad/inclusive title: we could talk and write about something, really anything connected to software engineering, thus allowing us to pick something we were really interested in.
+So the big question was: what I'm interested in?
+
+Let us wind back to 3 years ago:
+March 2013
+there was a meeting in a community space in Neukölln, followed by another..
+and suddenly, couple of my closest friends were swolled by this project called Freifunk.
+So for those of you who never heard of it (hands up, how knows what freifunk is?), this is a community network project active in local communities spread through Germany.
+
+How many know what a community network is?
+
+---
+
+Community networks def
+
+---
+
+So now, some 3 years later, one of my friends is still actively involved with the project and while the other two don't participate in organization and taking community decisions, they still help improve the free firmware or install the odd router or two in a refugee shelter or on a church tower near their home.
+And since it was my best friends with whom nobody could talk about anything else than Freifunk for quite some time (and with one of them it's sometimes still difficult to change the subject of conversation), this big question emerged: why? why are they doing it?
+
+So for me it was clear: I wanted to investigate the motivations of people partaking of community network projects and of Freifunk in particular, since it was easy to talk to people from this community. (that's right, I talked to them, interviewed 16 people)
+
+And that is what I want to share with you here today: why do Freifunkers do what they do?
+So hopefully, in some 20 mins you would have a clearer idea of the broad pallette of motivations which spur different community members into action.
+
+Since my class was called "contributions to software engineering" I sneaked in a comparison to the motivation of FLOSS engineers.
+I'm not really sure whether the comparison was worth it though, since I really didn't find recent research on motivations in FLOSS projects carried out in the same fashion as in the two classic papers X and Y I'm referring to in the paper.
+Also, we had some quite different methodologies:
+online based surveys vs in-person-conducted-interviews
+and huge difference in the number of participants: 79 vs 684 vs 16
+Nevertheless, the FLOSS research papers served as inspiration and a starting point for me to come up with my interview questions.
+
+Let's dig in, after this quite extensive introduction.
+
+---
+
+Organisation of the findings
+Motivation continuum
+
+~ Amotivation $\rightarrow$ Extrinsic Motivation: external reward $\rightarrow$ Extrinsic Motivation: satisfying (personal) needs $\rightarrow$ Extrinsic Motivation: expected approval from self or others $\rightarrow$ Extrinsic Motivation: community identification $\rightarrow$ Extrinsic Motivation: ideology $\rightarrow$ Intrinsic Motivation
+
+~ $\rightarrow$ with growing feeling of autonomy and competence, people identify more with the task at hand and motivation rises
+
+---
+
+# Extrinsic Motivation: expectation of a future reward
+
+* no monetary compensation
+  ** one participant mentioned they were considering offering Freifunk related services professionally, this was not amongst the person’s primary motivations to engage in the project
+
+---
+
+# Extrinsic Motivation: satisfying (personal) needs
+= Provide access to Internet to people who don't have it
+
+---
+
+# Extrinsic Motivation: expected approval from self or others
+
+---
+
+# Extrinsic Motivation: feeling as a part of a community
+
+---
+
+# Extrinsic Motivation: ideology
+
+---
+
+# Intrinsic Motivation
+Def: willingness of people to engage in an activity they find interesting and enjoyable by itself.
+
+---
+
+# Conclusion
+
+* ideology is important motive for everyone in Freifunk
+* differences in the motivations to join in different "generations" (pre/post 2008)
+* evolve motivations over time? -- diverse project, many different aspects, keeping long time contributors possible
+
+---
+
+# Thank you!
+
+So at the end of last semester I gave a presentation on this same topic in my class.
+It was rather lame, because I hadn't found the time to consize my data and organize it in a significant manner.
+The feedback of my professor was: well, you could submit it to the opensym conference.
+That's how I ended up here in front of you.
+I hope, it wasn't quite so lame this time and you learnt something new today.
+Thank you.
+

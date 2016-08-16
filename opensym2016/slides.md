@@ -30,8 +30,8 @@
 
 # Threats to Validity
 
-1. "Working for Free? Motivations for Participating in Open-Source Projects" Alexander Hars und Shaosong Ou (2002)
-2. "Why Hackers Do What They Do: Understanding Motivation in Free/Open Source Software Projects" Karim Lakhani und Robert Wolf (2005)
+1. Alexander Hars and Shaosong Ou, "Working for Free? Motivations for Participating in Open-Source Projects", Int. J. Electron. Commerce, 6(3):25–39, 2002.
+2. Karim Lakhani and Robert Wolf, "Why Hackers Do What They Do: Understanding Motivation in Free/Open Source Software Projects", MIT Press, Cambridge, 2005.
 
 note: don't want transitions here!
 
@@ -40,6 +40,8 @@ note: don't want transitions here!
 # Organisation of the findings
 
 ![motivations continuum](images/motivation_continuum.png)
+
+Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classic definitions and new directions", Contemporary Educational Psychology, 25:54–67, 2000.
 
 ---
 

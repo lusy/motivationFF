@@ -33,6 +33,8 @@
 1. "Working for Free? Motivations for Participating in Open-Source Projects" Alexander Hars und Shaosong Ou (2002)
 2. "Why Hackers Do What They Do: Understanding Motivation in Free/Open Source Software Projects" Karim Lakhani und Robert Wolf (2005)
 
+note: don't want transitions here!
+
 ---
 
 # Organisation of the findings
@@ -61,6 +63,8 @@
 ## Extrinsic Motivation: expectation of a future reward
 
 * "learnt a lot about network technic (there's scarcely another free time project where you can learn so much about it)"
+
+~ (TODO: transition!) $\rightarrow$ byproduct, not a primary source of motivation
 
 ---
 

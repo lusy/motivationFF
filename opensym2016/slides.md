@@ -73,10 +73,8 @@ note: don't want transitions here!
 
 ## Extrinsic Motivation: satisfying (personal) needs
 
-### Provide access to Internet to people who don't have it
-
-* "There was no (usable) Internet in Friedrichshein in 2003" <-- motivation for people who joined before 2008
-* "share the own internet connection with people who need it! (today, primarily refugees)"
+* Before 2008: "There was no (usable) Internet in Friedrichshein in 2003"
+* After: "share the own internet connection with people who need it! (today, primarily refugees)"
 
 ---
 

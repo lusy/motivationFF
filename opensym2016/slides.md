@@ -80,8 +80,6 @@ note: don't want transitions here!
 
 ## Extrinsic Motivation: expected approval from self or others
 
-### The feeling that my work is needed and valued
-
 * "it's cool to have the feeling that people need you"
 * "you can see that people use it (refugees; students; positive feedback)"
 

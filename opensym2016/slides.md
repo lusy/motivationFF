@@ -87,42 +87,12 @@ note: don't want transitions here!
 
 ## Extrinsic Motivation: feeling as a part of a community
 
-Several Freifunk activists mentioned the
-community aspect of their work, the feeling
-of belonging to a community they admired, as
-a driving force. They talked about “building
-a project together with others” , “collaborat-
-ing with and getting to know people of differ-
-ent ages and backgrounds, which would have
-hardly happened in a different setting” and
-“expanding one’s horizons and getting out of
-one’s comfort zone”. We can recognise here
-the “relatedness to others” component from the
-motivations’ research which apparently drives
-individuals to internalising the activity they
-engage in.
-
-Some found the intersection of community
-and technology was the most interesting part
-of the Freifunk project. Finding out how it
-works (or does not work) to organise a commu
-nity, what volunteer work means, what people
-do with pleasure and which tasks get ignored
-  and forgotten and why, who has the power to
-  decide things and whether it is necessary to
-  debate and formulate decisions for everything,
-  and most importantly, how to involve newcom-
-  ers so that the project does not fall apart and
-  how to prevent and deconstruct hierarchies in
-  knowledge are only few of the interesting ques-
-  tions with which activists have to deal.
-
-### Social Networking / Community Feeling
-
-* "the community" / "the people"
-* "I've grown to love the community (not only in H, but everywhere)"
-* "social interconnectedness: (international) contacts made"
+* "building a project together with others"
+* "I've grown to love the community"
+* "collaborating with and getting to know people of different ages and backgrounds, which would have hardly happened in a different setting"
 * "one gets to know interesting and different people, comes out of one's comfort zone and social bubble"
+* the intersection of community and technology: the most interesting part of the Freifunk project
+* how it works (or does not work) to organise a community, what volunteer work means, what people do with pleasure and which tasks get ignored and forgotten and why, who has the power to decide things and whether it is necessary to debate and formulate decisions for everything, and most importantly, how to involve newcomers so that the project does not fall apart and how to prevent and deconstruct hierarchies in knowledge
 
 ---
 

@@ -92,7 +92,6 @@ note: don't want transitions here!
 * "collaborating with and getting to know people of different ages and backgrounds, which would have hardly happened in a different setting"
 * "one gets to know interesting and different people, comes out of one's comfort zone and social bubble"
 * the intersection of community and technology: the most interesting part of the Freifunk project
-* how it works (or does not work) to organise a community, what volunteer work means, what people do with pleasure and which tasks get ignored and forgotten and why, who has the power to decide things and whether it is necessary to debate and formulate decisions for everything, and most importantly, how to involve newcomers so that the project does not fall apart and how to prevent and deconstruct hierarchies in knowledge
 
 ---
 

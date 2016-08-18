@@ -70,11 +70,11 @@
 ## Extrinsic Motivation: expectation of a future reward
 
 * no monetary compensation
-  (FLOSS Hars and Ou(2002): 30%; Lakhani and Wolf(2005): 40%)
+  FLOSS Hars and Ou(2002): 30%; Lakhani and Wolf(2005): 40%
 * not seen as networking/visibility platform
-  (FLOSS Hars and Ou(2002): 36.7%; Lakhani and Wolf(2005): 17.5%)
+  FLOSS Hars and Ou(2002): 36.7%; Lakhani and Wolf(2005): 17.5%
 * polish technical skills, learn about (wifi mesh) networks (6 of 16 people)
-  (FLOSS Hars and Ou(2002): 88%; Lakhani and Wolf(2005): 41.3%)
+  FLOSS Hars and Ou(2002): 88%; Lakhani and Wolf(2005): 41.3%
 * "learnt a lot about network technic (there's scarcely another free time project where you can learn so much about it)"
 
 ~ (TODO: transition!) $\rightarrow$ byproduct, not a primary source of motivation

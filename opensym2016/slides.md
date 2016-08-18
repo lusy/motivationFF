@@ -67,18 +67,18 @@
 
 ## Extrinsic Motivation: satisfying (personal) needs
 
+* FLOSS: Hars and Ou(2002): 38%; Lakhani and Wolf(2005): 58.7%
 * Before 2008: "There was no (usable) Internet in Friedrichshain in 2003" (2 out of 16 people)
 * After: "share the own internet connection with people who need it! (today, primarily refugees)" (6 out of 16 people)
-* FLOSS: Hars and Ou(2002): 38%; Lakhani and Wolf(2005): 58.7%
 
 ---
 
 ## Extrinsic Motivation: expected approval from self or others
 
+* FLOSS: Hars and Ou(2002): 43%; Lakhani and Wolf(2005): 11%
 * 2 out of 16 people
 * "it's cool to have the feeling that people need you"
 * "you can see that people use it (refugees; students; positive feedback)"
-* FLOSS: Hars and Ou(2002): 43%; Lakhani and Wolf(2005): 11%
 
 ---
 
@@ -96,10 +96,10 @@
 
 ## Extrinsic Motivation: ideology
 
+* FLOSS: Hars and Ou(2002): n/a; Lakhani and Wolf(2005): 33.1%
 * 16 out of 16 people
 * "free, decentralised communication infrastructure built and managed by the people who use it and not by the state or business players"
 * "independent network, cannot be switched off by a single person"
-* FLOSS: Hars and Ou(2002): n/a; Lakhani and Wolf(2005): 33.1%
 
 ~ (TODO: transition!) $\rightarrow$ political aspect plays a very central role
 
@@ -107,12 +107,12 @@
 
 ## Intrinsic Motivation
 
+* FLOSS: Hars and Ou(2002): 79.7%; Lakhani and Wolf(2005): 44.9%
 * technically interesting/challenging (14 out of 16 people)
 * "there's stuff you can physically touch (more tangible compared to coding), it makes you happy :)"
 * "you can climb on church towers and look at the city from above, which is pretty cool :)"
 * "it's technically challenging despite the fact that I've abandoned the idea that it could be an alternative to the last mile of the German Telekom"
 * "challenge: to get maximal results with minimal resources"
-* FLOSS: Hars and Ou(2002): 79.7%; Lakhani and Wolf(2005): 44.9%
 
 ---
 

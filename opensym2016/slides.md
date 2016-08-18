@@ -66,8 +66,11 @@ Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classi
 ## Extrinsic Motivation: expectation of a future reward
 
 * no monetary compensation
+  (FLOSS Hars and Ou(2002): 30%; Lakhani and Wolf(2005): 40%)
 * not seen as networking/visibility platform
+  (FLOSS Hars and Ou(2002): 36.7%; Lakhani and Wolf(2005): 17.5%)
 * polish technical skills, learn about (wifi mesh) networks (6 of 16 people)
+  (FLOSS Hars and Ou(2002): 88%; Lakhani and Wolf(2005): 41.3%)
 * "learnt a lot about network technic (there's scarcely another free time project where you can learn so much about it)"
 
 ~ (TODO: transition!) $\rightarrow$ byproduct, not a primary source of motivation
@@ -78,6 +81,7 @@ Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classi
 
 * Before 2008: "There was no (usable) Internet in Friedrichshain in 2003" (2 out of 16 people)
 * After: "share the own internet connection with people who need it! (today, primarily refugees)" (6 out of 16 people)
+* FLOSS: Hars and Ou(2002): 38%; Lakhani and Wolf(2005): 58.7%
 
 ---
 
@@ -86,6 +90,7 @@ Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classi
 * 2 out of 16 people
 * "it's cool to have the feeling that people need you"
 * "you can see that people use it (refugees; students; positive feedback)"
+* FLOSS: Hars and Ou(2002): 43%; Lakhani and Wolf(2005): 11%
 
 ---
 
@@ -97,6 +102,7 @@ Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classi
 * "collaborating with and getting to know people of different ages and backgrounds, which would have hardly happened in a different setting"
 * "one gets to know interesting and different people, comes out of one's comfort zone and social bubble"
 * the intersection of community and technology: the most interesting part of the Freifunk project
+* FLOSS: Hars and Ou(2002): 27.8%; Lakhani and Wolf(2005): 83%
 
 ---
 
@@ -105,6 +111,7 @@ Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classi
 * 16 out of 16 people
 * "free, decentralised communication infrastructure built and managed by the people who use it and not by the state or business players"
 * "independent network, cannot be switched off by a single person"
+* FLOSS: Hars and Ou(2002): n/a; Lakhani and Wolf(2005): 33.1%
 
 ~ (TODO: transition!) $\rightarrow$ political aspect plays a very central role
 
@@ -117,6 +124,7 @@ Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classi
 * "you can climb on church towers and look at the city from above, which is pretty cool :)"
 * "it's technically challenging despite the fact that I've abandoned the idea that it could be an alternative to the last mile of the German Telekom"
 * "challenge: to get maximal results with minimal resources"
+* FLOSS: Hars and Ou(2002): 79.7%; Lakhani and Wolf(2005): 44.9%
 
 ---
 

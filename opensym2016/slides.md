@@ -48,10 +48,9 @@
 * "It's a charming idea: to radio with each other, to do things with the network, to connect people in the hood, to do community based work (not only Internet related)"
 * "it was the refugee context: I found it important to provide a communication infrastructure to people who don't have one."
 * "I've founded it^^"
-* "There was no (usable) Internet in Friedrichshein till 2003"
+* "There was no (usable) Internet in Friedrichshain till 2003"
 * "Intersection community -- technic is intriguing"
 * "the legal regulations changed, so it was at once possible to freely deploy wifi networks"
-* "from today's perspective: how big it has become"
 * "I've learnt a lot about how communities work and don't, how much structure is helpful/not, what voluntary work means, what tasks get ignored and why, what should be decided at all costs and who decides, ..."
 
 ---

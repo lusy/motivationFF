@@ -100,10 +100,9 @@ Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classi
 
 ## Extrinsic Motivation: ideology
 
-* "there is a right to free communication and information"
+* 16 out of 16 people
 * "free, decentralised communication infrastructure built and managed by the people who use it and not by the state or business players"
 * "independent network, cannot be switched off by a single person"
-* "decentralised infrastructure is good, but it also makes things difficult"
 
 ~ (TODO: transition!) $\rightarrow$ political aspect plays a very central role
 

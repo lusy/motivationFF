@@ -28,10 +28,14 @@
 
 ---
 
+
+1. > Alexander Hars and Shaosong Ou, "Working for Free? Motivations for Participating in Open-Source Projects", Int. J. Electron. Commerce, 6(3):25–39, 2002.
+2. > Karim Lakhani and Robert Wolf, "Why Hackers Do What They Do: Understanding Motivation in Free/Open Source Software Projects", MIT Press, Cambridge, 2005.
+
+---
+
 # Methods
 
-1. Alexander Hars and Shaosong Ou, "Working for Free? Motivations for Participating in Open-Source Projects", Int. J. Electron. Commerce, 6(3):25–39, 2002.
-2. Karim Lakhani and Robert Wolf, "Why Hackers Do What They Do: Understanding Motivation in Free/Open Source Software Projects", MIT Press, Cambridge, 2005.
 * semi-structured interviews
 * questions inspired by floss papers
 * 16 participants

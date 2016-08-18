@@ -63,7 +63,7 @@
 
 ![motivations continuum](images/motivation_continuum.png)
 
-Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classic definitions and new directions", Contemporary Educational Psychology, 25:54–67, 2000.
+> Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classic definitions and new directions", Contemporary Educational Psychology, 25:54–67, 2000.
 
 ---
 

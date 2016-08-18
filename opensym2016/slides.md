@@ -123,8 +123,8 @@ Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classi
 * ideology is important motive for everyone in Freifunk
 * differences in the motivations to join in different "generations" (pre/post 2008)
 * evolve motivations over time? -- diverse project, many different aspects, keeping long time contributors possible
-* asking more people and more elaborate questions would be cool
-* comparison between different projects would be even cooler
+* asking more people and more elaborate questions would be interesting
+* comparison between different projects would be even more interesting
 
 ---
 

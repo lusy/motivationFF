@@ -76,13 +76,14 @@ Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classi
 
 ## Extrinsic Motivation: satisfying (personal) needs
 
-* Before 2008: "There was no (usable) Internet in Friedrichshain in 2003"
-* After: "share the own internet connection with people who need it! (today, primarily refugees)"
+* Before 2008: "There was no (usable) Internet in Friedrichshain in 2003" (2 out of 16 people)
+* After: "share the own internet connection with people who need it! (today, primarily refugees)" (6 out of 16 people)
 
 ---
 
 ## Extrinsic Motivation: expected approval from self or others
 
+* 2 out of 16 people
 * "it's cool to have the feeling that people need you"
 * "you can see that people use it (refugees; students; positive feedback)"
 
@@ -90,6 +91,7 @@ Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classi
 
 ## Extrinsic Motivation: feeling as a part of a community
 
+* 8 out of 16 people
 * "building a project together with others"
 * "I've grown to love the community"
 * "collaborating with and getting to know people of different ages and backgrounds, which would have hardly happened in a different setting"

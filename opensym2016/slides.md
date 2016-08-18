@@ -76,7 +76,7 @@ Richard M. Ryan and Edward L. Deci, "Intrinsic and extrinsic motivations: Classi
 
 ## Extrinsic Motivation: satisfying (personal) needs
 
-* Before 2008: "There was no (usable) Internet in Friedrichshein in 2003"
+* Before 2008: "There was no (usable) Internet in Friedrichshain in 2003"
 * After: "share the own internet connection with people who need it! (today, primarily refugees)"
 
 ---
